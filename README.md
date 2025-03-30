@@ -2,7 +2,6 @@
 
 A vibrant and modern take on the classic Snake game, built with HTML5 Canvas, CSS3, and vanilla JavaScript.
 
-![Modern Snake Game](https://via.placeholder.com/800x400?text=Modern+Snake+Game)
 
 ## ✨ Features
 
