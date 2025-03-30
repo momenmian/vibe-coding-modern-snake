@@ -29,9 +29,6 @@ A vibrant and modern take on the classic Snake game, built with HTML5 Canvas, CS
 - **Space**: Pause/Resume game
 - **R**: Reset game
 
-### Mobile:
-- **Direction Buttons**: Control snake direction
-- **Swipe**: Swipe on the game board to change direction
 
 ## 💻 Technologies Used
 
@@ -51,23 +48,6 @@ A vibrant and modern take on the classic Snake game, built with HTML5 Canvas, CS
 
 This project follows the vibe coding philosophy - combining aesthetic design principles with clean, functional code. The modern visual style features gradients, shadows, and animations while maintaining a clean, responsive interface.
 
-## 📱 Responsive Design
-
-The game adapts to different screen sizes:
-- Desktop: Full-sized game board
-- Mobile: Compact layout with touch controls
-
-## 🎨 Vibe Coding
-
-This project embraces the "vibe coding" philosophy - creating code that not only functions well but creates an enjoyable, aesthetic experience. The vibrant purple color scheme, smooth animations, and thoughtful design details make this more than just another Snake game.
-
-## 🔮 Future Improvements
-
-- Multiple difficulty levels
-- Power-ups and special effects
-- Sound effects and background music
-- Multiplayer mode
-- Customizable snake appearance
 
 ## 📄 License
 
